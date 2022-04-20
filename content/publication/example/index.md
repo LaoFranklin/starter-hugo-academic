@@ -21,7 +21,7 @@ abstract: >+
   safety education and more.
 
 slides: example
-url_pdf: ""
+url_pdf: "/example.pdf"
 publication_types:
   - "1"
 authors:
