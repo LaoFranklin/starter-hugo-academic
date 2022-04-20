@@ -4,9 +4,10 @@ role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction (HCI)
+  - Accessibility
+  - Soft Robotics
+  - Haptic Feedback Techniques.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +23,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/chutian-jiang-772981191
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -41,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chutian Jiang is a PhD candidate of Computational Media and Arts (CMA) at the APEX Lab in Hongkong University of Science and Technology (HKUST). His research interests include Human-Computer Interaction (HCI), Accessibility, Soft Robotics, and novel Haptic Feedback Techniques.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
