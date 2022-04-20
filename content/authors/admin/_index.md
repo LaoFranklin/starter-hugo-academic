@@ -1,6 +1,7 @@
 ---
 title: Chutian Jiang
 role: PhD Candidate in Computing Media and Arts
+avatar_filename: 江楚天_证件照.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
