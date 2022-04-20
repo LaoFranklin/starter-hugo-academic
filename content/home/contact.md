@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: cdswjct@gmail.com
-    phone: /
+    phone: 
     address:
     street: 450 Serra Mall
     city: Stanford
