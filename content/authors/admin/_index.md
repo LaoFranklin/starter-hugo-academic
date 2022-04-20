@@ -1,6 +1,6 @@
 ---
 title: Chutian Jiang
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Computing Media and Arts
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
