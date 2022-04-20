@@ -28,20 +28,17 @@ content:
   email: cdswjct@gmail.com
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Beijing District
+    city: Beijing
+    postcode: '100000'
+    country: China
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '0.0'
+    longitude: '0.0'
+  directions: 0
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday - Friday 8:00 to 18:00'
   contact_links:
     - icon: twitter
       icon_pack: fab
