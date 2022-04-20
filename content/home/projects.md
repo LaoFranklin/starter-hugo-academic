@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Human Computer Interaction
+    tag: Human Computer Interaction
   - name: Other
     tag: Demo
 
