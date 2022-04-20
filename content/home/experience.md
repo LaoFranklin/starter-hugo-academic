@@ -25,7 +25,6 @@ experience:
   - title: Research Assistant
     company: Chinese Academy of Sciences Institute of Software
     company_url: ''
-    company_logo: org-CAS
     location: Beijing
     date_start: '2020-08'
     date_end: ''
