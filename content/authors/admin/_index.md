@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: www.linkedin.com/in/chutian-jiang-772981191
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hong Kong University of Science and Technology
+    url: https://hkust.edu.hk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Computing Media and Arts
+      institution: Hong Kong University of Science and Technology
+      year: ""
+    - course: MSc in Industrial Chemistry
+      institution: National University of Singapore
+      year: 2021
+    - course: BEng in Special Energy and Pyrotechniques
+      institution: Nanjing University of Science and Technology
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
