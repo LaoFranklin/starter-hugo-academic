@@ -20,7 +20,7 @@ abstract: >+
   induce rich pain sensations and opens up a wide range of applications for
   safety education and more.
 
-slides: example
+slides: ""
 url_pdf: /example.pdf
 publication_types:
   - "1"
@@ -50,8 +50,7 @@ title: "Douleur: Creating Pain Sensation with Chemical Stimulant to Enhance User
 doi: https://doi.org/10.1145/3463527
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
