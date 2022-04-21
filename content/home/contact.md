@@ -26,9 +26,8 @@ content:
 
   # Contact details (edit or remove options as required)
   email: cdswjct@gmail.com
-  phone: 888 888 88 88
   address:
-    street: Beijing District
+    street: Haidian District
     city: Beijing
     postcode: '100000'
     country: China
