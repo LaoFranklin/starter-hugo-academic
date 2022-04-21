@@ -21,7 +21,7 @@ abstract: >+
   safety education and more.
 
 slides: ""
-url_pdf: /example.pdf
+url_pdf: /Douleur_PDF.pdf 
 publication_types:
   - "1"
 authors:
