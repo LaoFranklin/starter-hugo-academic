@@ -42,4 +42,4 @@ highlight_name: true
 ---
 Chutian Jiang is a PhD candidate of Computational Media and Arts (CMA) at the APEX Lab in Hongkong University of Science and Technology (HKUST). His research interests include Human-Computer Interaction (HCI), Accessibility, Soft Robotics, and novel Haptic Feedback Techniques.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
