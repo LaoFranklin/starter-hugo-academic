@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chutian-jiang-772981191
 organizations:
-  - name: Hong Kong University of Science and Technology (Guangzhou)
+  - name: The Hong Kong University of Science and Technology (Guangzhou)
     url: https://hkust-gz.edu.cn/
 education:
   courses:
