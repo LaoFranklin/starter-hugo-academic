@@ -21,7 +21,7 @@ social:
     link: https://github.com/LaoFranklin
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/chutian-jiang-772981191
+    link: https://www.linkedin.com/in/chutian-jiang-772981191
 organizations:
   - name: Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
