@@ -1,6 +1,6 @@
 ---
 title: Chutian Jiang
-role: PhD Candidate in Computing Media and Arts
+role: PhD Student in Computing Media and Arts
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -23,12 +23,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chutian-jiang-772981191
 organizations:
-  - name: Hong Kong University of Science and Technology
-    url: https://hkust.edu.hk/
+  - name: Hong Kong University of Science and Technology (Guangzhou)
+    url: https://hkust-gz.edu.cn/
 education:
   courses:
     - course: PhD Candidate in Computing Media and Arts
-      institution: Hong Kong University of Science and Technology
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
       year: ""
     - course: MSc in Industrial Chemistry
       institution: National University of Singapore
@@ -40,6 +40,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Chutian Jiang is a PhD candidate of Computational Media and Arts (CMA) at the APEX Lab in Hongkong University of Science and Technology (HKUST). His research interests include Human-Computer Interaction (HCI), Accessibility, Soft Robotics, and novel Haptic Feedback Techniques.
+Chutian Jiang is a PhD candidate of Computational Media and Arts (CMA) at the APEX Lab in The Hongkong University of Science and Technology (Guangzhou). His research interests include Human-Computer Interaction (HCI), Accessibility, Soft Robotics, and novel Haptic Feedback Techniques.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
