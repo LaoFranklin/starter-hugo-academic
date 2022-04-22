@@ -13,15 +13,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=zh-CN&user=k5RLBncAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LaoFranklin
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/chutian-jiang-772981191
