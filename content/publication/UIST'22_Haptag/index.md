@@ -1,6 +1,6 @@
 ---
-title: "HapTag: A Compact Actuator for Rendering Push-Button Tactility on Soft
-  Surfaces"
+title: "(UIST'22) HapTag: A Compact Actuator for Rendering Push-Button Tactility
+  on Soft Surfaces"
 publication_types:
   - "1"
 authors:
