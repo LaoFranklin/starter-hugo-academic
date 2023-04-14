@@ -1,42 +1,25 @@
 ---
-title: "(IMWUT '21) Douleur: Creating Pain Sensation with Chemical Stimulant to
-  Enhance User Experience in Virtual Reality"
+title: "(UIST '22) HapTag: A Compact Actuator for Rendering Push-Button Tactility on Soft Surfaces
+"
 publication_types:
   - "1"
 authors:
-  - Chutian Jiang
   - Yanjun Chen
-  - Mingming Fan
-  - Liuping Wang
-  - Luyao Shen
-  - Nianlong Li
-  - Wei Sun
-  - Yu Zhang
+  - Xuewei Liang
+  - Si Chen
+  - Yuwen Chen
+  - Hongnan Lin
+  - Hechuan Zhang
+  - Chutian Jiang
   - Feng Tian
+  - Yu Zhang
+  - Shanshan Yao
   - Teng Han
-doi: https://doi.org/10.1145/3463527
+doi: https://doi.org/10.1145/3526113.3545644
 publication: ""
 publication_short: ""
 abstract: >+
-  The imitation of pain sensation in Virtual Reality is considered valuable for
-  safety education and training but has been seldom studied. This paper presents
-  Douleur, a wearable haptic device that renders intensity-adjustable pain
-  sensations with chemical stimulants. Different from mechanical, thermal, or
-  electric stimulation, chemical-induced pain is more close to burning
-  sensations and long-lasting. Douleur consists of a microfluidic platform that
-  precisely emits capsaicin onto the skin and a microneedling component to help
-  the stimulant penetrate the epidermis layer to activate the trigeminal nerve
-  efficiently. Moreover, it embeds a Peltier module to apply the heating or
-  cooling stimulus to the affected area to adjust the level of pain on the skin.
-  To better understand how people would react to the chemical stimulant, we
-  conducted a first study to quantify the enhancement of the sensation by
-  changing the capsaicin concentration, skin temperature, and time and to
-  determine suitable capsaicin concentration levels. In the second study, we
-  demonstrated that Douleur could render a variety of pain sensations in
-  corresponding virtual reality applications. In sum, Douleur is the first
-  wearable prototype that leverages a combination of capsaicin and Peltier to
-  induce rich pain sensations and opens up a wide range of applications for
-  safety education and more.
+  As touch interactions become ubiquitous in the field of human computer interactions, it is critical to enrich haptic feedback to improve efficiency, accuracy, and immersive experiences. This paper presents HapTag, a thin and flexible actuator to support the integration of push button tactile renderings to daily soft surfaces. Specifically, HapTag works under the principle of hydraulically amplified electroactive actuator (HASEL) while being optimized by embedding a pressure sensing layer, and being activated with a dedicated voltage appliance in response to users’ input actions, resulting in fast response time, controllable and expressive push-button tactile rendering capabilities. HapTag is in a compact formfactor and can be attached, integrated, or embedded on various soft surfaces like cloth, leather, and rubber. Three common push button tactile patterns were adopted and implemented with HapTag. We validated the feasibility and expressiveness of HapTag by demonstrating a series of innovative applications under different circumstances.
 
 draft: false
 featured: true
