@@ -24,7 +24,7 @@ abstract: >+
 draft: false
 featured: true
 image:
-  filename: HapTag.png
+  filename: Haptag.png
   focal_point: Smart
   preview_only: false
 date: 2021-07-01T09:18:07.871Z
