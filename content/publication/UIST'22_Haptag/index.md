@@ -38,7 +38,7 @@ abstract: >+
 
 featured: true
 image:
-  filename: Haptag.png
+  filename: featured.png
   focal_point: Smart
 date: 2023-04-14T13:09:33.141Z
 ---
