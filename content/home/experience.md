@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Beijing
     date_start: '2020-08-01'
-    date_end: ''
+    date_end: '2022-09-01'
     description: |2-
         Responsibilities include:
         
