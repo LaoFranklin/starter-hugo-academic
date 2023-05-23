@@ -2,8 +2,7 @@
 title: Chutian Jiang
 role: PhD Student in Computing Media and Arts
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Human-Computer Interaction (HCI)
   - Accessibility
