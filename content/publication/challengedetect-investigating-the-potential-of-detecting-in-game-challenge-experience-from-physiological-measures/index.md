@@ -33,7 +33,7 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: chi-23_game.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2023-05-23T12:26:17.240Z
