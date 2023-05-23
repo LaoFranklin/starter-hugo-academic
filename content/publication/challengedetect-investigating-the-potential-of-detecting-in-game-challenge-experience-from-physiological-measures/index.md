@@ -1,6 +1,6 @@
 ---
-title: "ChallengeDetect: Investigating the Potential of Detecting In-Game
-  Challenge Experience from Physiological Measures"
+title: "(CHI'23) ChallengeDetect: Investigating the Potential of Detecting
+  In-Game Challenge Experience from Physiological Measures"
 publication_types:
   - "1"
 authors:
