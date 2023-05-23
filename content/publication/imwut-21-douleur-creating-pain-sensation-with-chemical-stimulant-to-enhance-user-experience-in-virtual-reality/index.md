@@ -14,9 +14,10 @@ authors:
   - Yu Zhang
   - Feng Tian
   - Teng Han
-doi: https://doi.org/10.1145/3463527
-publication: ""
-publication_short: ""
+doi: 10.1145/3463527
+publication: Proceedings of the ACM on Interactive, Mobile, Wearable and
+  Ubiquitous Technologies
+publication_short: IMWUT'21
 abstract: >+
   The imitation of pain sensation in Virtual Reality is considered valuable for
   safety education and training but has been seldom studied. This paper presents
@@ -45,5 +46,5 @@ image:
   focal_point: Smart
   preview_only: false
   date: 2023-04-14T09:18:07.871Z
+date: 2023-05-23T12:31:02.541Z
 ---
-
