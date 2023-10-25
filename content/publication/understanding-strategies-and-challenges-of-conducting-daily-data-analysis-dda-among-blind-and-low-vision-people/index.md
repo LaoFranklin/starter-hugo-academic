@@ -1,6 +1,6 @@
 ---
-title: Understanding Strategies and Challenges of Conducting Daily Data Analysis
-  (DDA) Among Blind and Low-vision People
+title: (ASSETS'23) Understanding Strategies and Challenges of Conducting Daily
+  Data Analysis (DDA) Among Blind and Low-vision People
 publication_types:
   - "1"
 authors:
