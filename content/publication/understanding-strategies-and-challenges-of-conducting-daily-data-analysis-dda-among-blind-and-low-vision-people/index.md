@@ -26,7 +26,7 @@ abstract: Being able to analyze and derive insights from data, which we call
   challenges. We discussed the implications of our findings and highlighted
   potential directions to make DDA more accessible for BLV people.
 draft: false
-featured: false
+featured: true
 image:
   filename: assets-23.png
   focal_point: Smart
