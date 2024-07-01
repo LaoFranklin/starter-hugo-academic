@@ -10,7 +10,7 @@ authors:
   - Chutian Jiang
   - Mingming Fan
   - Zeyu Wang
-doi: 10.1145/3613904.364209
+doi: 10.1145/3613904.3642096
 publication: "CHI '24: Proceedings of the CHI Conference on Human Factors in
   Computing Systems"
 publication_short: CHI'24
