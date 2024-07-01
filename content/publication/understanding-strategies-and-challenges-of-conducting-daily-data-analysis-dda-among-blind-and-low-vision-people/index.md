@@ -28,7 +28,7 @@ abstract: Being able to analyze and derive insights from data, which we call
 draft: false
 featured: true
 image:
-  filename: assets-23.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2023-10-25T02:09:28.180Z
