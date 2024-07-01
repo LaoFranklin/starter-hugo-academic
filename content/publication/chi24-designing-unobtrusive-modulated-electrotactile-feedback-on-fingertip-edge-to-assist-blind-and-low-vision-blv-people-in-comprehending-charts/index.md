@@ -35,7 +35,7 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: teaser.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2024-07-01T02:35:37.616Z
