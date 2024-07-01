@@ -30,7 +30,7 @@ abstract: We propose Neural Canvas, a lightweight 3D platform that integrates
 draft: false
 featured: true
 image:
-  filename: sketch.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2024-07-01T02:43:57.693Z
