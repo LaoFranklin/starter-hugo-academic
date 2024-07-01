@@ -28,7 +28,7 @@ abstract: We propose Neural Canvas, a lightweight 3D platform that integrates
   designs created more efficiently than using traditional modeling tools or
   individual generative AI platforms.
 draft: false
-featured: false
+featured: true
 image:
   filename: sketch.png
   focal_point: Smart
