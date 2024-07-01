@@ -2,7 +2,7 @@
 title: "(CHI'24) Neural Canvas: Supporting Scenic Design Prototyping by
   Integrating 3D Sketching and Generative AI"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Yulin Shen
   - Yifei Shen
