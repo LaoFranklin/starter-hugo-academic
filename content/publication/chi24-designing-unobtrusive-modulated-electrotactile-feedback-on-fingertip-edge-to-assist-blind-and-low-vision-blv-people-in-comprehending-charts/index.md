@@ -2,6 +2,7 @@
 title: (CHI'24) Designing Unobtrusive Modulated Electrotactile Feedback on
   Fingertip Edge to Assist Blind and Low Vision (BLV) People in Comprehending
   Charts
+subtitle: Best Paper Honorable Mention
 publication_types:
   - "1"
 authors:
