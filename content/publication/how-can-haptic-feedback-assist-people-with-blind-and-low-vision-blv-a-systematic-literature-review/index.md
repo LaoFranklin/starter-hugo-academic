@@ -2,7 +2,6 @@
 title: "(TACCESS'25) How Can Haptic Feedback Assist People with Blind and Low
   Vision (BLV): A Systematic Literature Review"
 publication_types:
-  - "0"
   - "2"
 authors:
   - Chutian Jiang
@@ -29,7 +28,7 @@ abstract: >
 draft: false
 featured: true
 image:
-  filename: howcan.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2025-04-08T11:01:16.506Z
