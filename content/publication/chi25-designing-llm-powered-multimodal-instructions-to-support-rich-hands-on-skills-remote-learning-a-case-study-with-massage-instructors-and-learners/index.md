@@ -3,7 +3,6 @@ title: "(CHI'25) Designing LLM-Powered Multimodal Instructions to Support Rich
   Hands-on Skills Remote Learning: A Case Study with Massage Instructors and
   Learners"
 publication_types:
-  - "0"
   - "1"
 authors:
   - Chutian Jiang
