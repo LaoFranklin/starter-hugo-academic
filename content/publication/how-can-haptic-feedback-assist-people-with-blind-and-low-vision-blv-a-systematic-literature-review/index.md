@@ -1,6 +1,6 @@
 ---
-title: "How Can Haptic Feedback Assist People with Blind and Low Vision (BLV): A
-  Systematic Literature Review"
+title: "(TACCESS'25) How Can Haptic Feedback Assist People with Blind and Low
+  Vision (BLV): A Systematic Literature Review"
 publication_types:
   - "0"
   - "2"
