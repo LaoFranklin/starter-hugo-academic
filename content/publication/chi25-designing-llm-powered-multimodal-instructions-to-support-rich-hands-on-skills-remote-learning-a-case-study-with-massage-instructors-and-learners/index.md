@@ -32,7 +32,7 @@ abstract: Although remote learning is widely used for delivering and capturing
 draft: false
 featured: true
 image:
-  filename: massage.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2025-04-08T11:05:21.495Z
