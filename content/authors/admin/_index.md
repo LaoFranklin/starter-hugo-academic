@@ -1,5 +1,5 @@
 ---
-title: Chutian Jiang     (江楚天)
+title: Chutian Jiang                       (江楚天)
 role: PhD Candidate in Computing Media and Arts (CMA)
 avatar_filename: avatar.jpg
 bio: ""
