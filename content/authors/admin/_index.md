@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Human-Computer Interaction (HCI)
-  - Accessibility
-  - Soft Robotics
-  - Haptic Feedback Techniques.
+  - Haptic Technologies
+  - AI-assisted Multimodal Education
+  - and Accessibility Design.
 social:
   - icon: envelope
     icon_pack: fas
