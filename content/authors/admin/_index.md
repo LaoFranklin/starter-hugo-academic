@@ -26,7 +26,7 @@ organizations:
     url: https://hkust-gz.edu.cn/
 education:
   courses:
-    - course: PhD C﻿andidate in Computing Media and Arts
+    - course: PhD C﻿andidate in Computational Media and Arts
       institution: The Hong Kong University of Science and Technology (Guangzhou)
       year: ""
     - course: MSc in Industrial Chemistry
