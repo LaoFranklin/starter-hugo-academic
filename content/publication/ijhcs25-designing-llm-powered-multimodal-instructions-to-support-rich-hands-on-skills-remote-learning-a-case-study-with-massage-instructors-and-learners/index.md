@@ -29,7 +29,7 @@ abstract: Previewing routes to unfamiliar destinations is a crucial task for
 draft: false
 featured: true
 image:
-  filename: teaser.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2025-11-07T02:25:16.873Z
